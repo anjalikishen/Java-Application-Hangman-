@@ -1,5 +1,5 @@
 package game;
-import java.util.Random;	// import statements
+import java.util.Random;	
 import java.util.Scanner;
 
 public class Hangman
@@ -35,7 +35,7 @@ public class Hangman
        }
     }
     
-    // Method definition
+
 
     public void playGame() 
     {
